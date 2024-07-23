@@ -29,8 +29,6 @@ interests:
   - Robotics
   - Motion Planning and Decision Making
   - Reinforcement Learning
-  - Bipedal Robotic Walking
-  
 
 # Education to show in About widget
 education:
