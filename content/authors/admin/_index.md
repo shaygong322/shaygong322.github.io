@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shay S. Gong 龚诗婷
+title: Shay Gong 龚诗婷
 
 # Name pronunciation (optional)
 # name_pronunciation: 
