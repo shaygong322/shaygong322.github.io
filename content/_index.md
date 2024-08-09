@@ -42,30 +42,30 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: experience
-    id: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Research Assistant
-          company: Cyberbotics Lab
-          company_url: 'https://cyberboticslab.com/'
-          company_logo: cyberbotics
-          location: Columbus, OH
-          date_start: '2024-07-09'
-          date_end: ''
-          description: |2-
-              * Research on Humanoid Locomotion and Autonomous Navigation
-    design:
-      columns: '2'
+  # - block: experience
+  #   id: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Research Assistant
+  #         company: Cyberbotics Lab
+  #         company_url: 'https://cyberboticslab.com/'
+  #         company_logo: cyberbotics
+  #         location: Columbus, OH
+  #         date_start: '2024-07-09'
+  #         date_end: ''
+  #         description: |2-
+  #             * Research on Humanoid Locomotion and Autonomous Navigation
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
